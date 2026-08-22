@@ -343,8 +343,6 @@ The dashboard enables users to:
 - Filter by Category
 - Compare selected business segments dynamically
 
-> **Important:** No fixed numerical sales, revenue, growth, or percentage results are claimed because actual values depend on the dataset.
-
 ---
 
 # 🖼️ Dashboard Preview
@@ -445,20 +443,6 @@ screenshots/top-10-states.png
 - Add automated data refresh
 - Build a Power BI version of the dashboard
 - Add forecasting when sufficient historical data is available
-
----
-
-# 🏁 Conclusion
-
-The **Grocery Store Sales Analysis Dashboard** demonstrates a complete Excel Data Analytics workflow:
-
-**Raw Data → Cleaning → Analysis → Visualization → Interactive Filtering → Business Insights**
-
-The project covers:
-
-**12 Months | 7 Sales Channels | 4 Order Statuses | Top 10 States | 3 Age Groups | 3 Interactive Slicers**
-
-The key outcome is a structured Excel reporting solution that makes grocery/e-commerce sales data easier to **analyze, compare, filter, and communicate for business decision-making.**
 
 ---
 
