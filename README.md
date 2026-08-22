@@ -112,24 +112,6 @@ Excel Sales Dashboard
         ↓
 Business Insights
 
-### Raw Data
-
-The raw dataset represents the original source data before cleaning and preparation.
-
-**File:**
-
-`data/raw/grocery_store_raw_data.xlsx`
-
-### Cleaned Data
-
-The cleaned dataset represents the prepared version used for analysis and dashboard development.
-
-**File:**
-
-`data/cleaned/grocery_store_cleaned_data.xlsx`
-
-> **Note:** Include the cleaned-data file only if it actually exists in the repository. Do not claim that a cleaned dataset exists if it has not been provided.
-
 ---
 
 ## 🛠️ Tools & Technologies
@@ -464,48 +446,3 @@ Then GitHub will automatically display it using the Markdown image below.
 This visualization highlights the Top 10 states based on sales performance.
 
 ---
-
-## 🛍️ Sales Channel Analysis
-
-<!--
-ADD IMAGE HERE
-
-Upload the image to:
-
-screenshots/channel-analysis.png
-
-Then GitHub will automatically display it using the Markdown image below.
--->
-
-![Sales Channel Analysis](screenshots/channel-analysis.png)
-
-This visualization compares order activity across the available sales channels.
-
----
-
-# 📁 Project Structure
-
-```text
-Grocery-Store-Sales-Analysis-Excel/
-│
-├── README.md
-│
-├── data/
-│   ├── raw/
-│   │   └── grocery_store_raw_data.xlsx
-│   │
-│   └── cleaned/
-│       └── grocery_store_cleaned_data.xlsx
-│
-├── dashboard/
-│   └── Grocery_Store_Sales_Dashboard.xlsx
-│
-├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── sales-vs-orders.png
-│   ├── order-status.png
-│   ├── top-10-states.png
-│   └── channel-analysis.png
-│
-└── documentation/
-    └── project-notes.md
